@@ -1,0 +1,6 @@
+cp=float(input("enter the cp=:"))
+sp=float(inout("enter the sp=:"))
+profit=sp-cp
+gainsp=1.05+profit+cp
+print("profit is=:",profit)
+print("new profit after increasing sp by 5%=:",gainsp)

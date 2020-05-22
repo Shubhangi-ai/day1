@@ -1,0 +1,13 @@
+run P1=int(input("enter the runs=:"))
+run P2=int(input("enter the runs=:"))
+run P3=int(input("enter the runs=:"))
+strike rate 1=run P1*100/60
+strike rate 2=run P2*100/60
+strike rate 3=run P3*100/60
+print("strike rate of P1:"is, strike rate 1)
+print("strike rate of P2 is:",strike rate 2)
+print("strike rate of P3 is:".strike rate 3)
+print("run by P1 on playong 60 balls more:",run P1*2)
+print("run by P2 on playong 60 balls more:",run P2*2)
+print("run by P3 on playong 60 balls more:",run P3*2)
+

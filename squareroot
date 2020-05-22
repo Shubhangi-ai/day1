@@ -1,0 +1,3 @@
+no.=flaot(input("enter the no.:"))
+sqrt=no.
+print("sqrt of number" ,no.,"is",sqrt)
